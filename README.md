@@ -19,10 +19,17 @@
 <br />
 <h1 align="center">Hi there 👋 I`m Vova</h1>
 
+<br />
 
 ## 😃 About me
-I`m 18 y.o Front-end developer from Ukraine 🇺🇦. I’m currently learning React ⚛️ and I have some progress in it.
-I am also interested in cooperation 😉 so you can contact with me. If I talk about my hobbies it is primarily football and driving a car. I really like it
+<ul>
+  <li>I`m 18 y.o Front-end developer from Ukraine 🇺🇦. </li>
+  <li>I’m currently learning React ⚛️ and I have some progress in it. </li>
+  <li>I am also interested in cooperation 😉 so you can contact with me. </li>
+  <li>If I talk about my hobbies it is primarily football and driving a car. I really like it</li>
+</ul>
+
+<br />
 
 ## 🛠️ Languages and Tools:
 <div>
@@ -36,20 +43,6 @@ I am also interested in cooperation 😉 so you can contact with me. If I talk a
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**iamvova/iamvova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvova&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
