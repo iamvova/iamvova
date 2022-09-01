@@ -17,7 +17,7 @@
 
 
 <br />
-<h1 align="center">Hi there 👋 I`m Vova</h1>
+<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3%">  I`m Volodymyr</h1>
 
 <br />
 
