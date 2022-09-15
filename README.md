@@ -26,7 +26,7 @@
   <li>I`m 19 y.o Front-end developer from Ukraine 🇺🇦. </li>
   <li>I’m currently learning React ⚛️ and I have some progress in it. </li>
   <li>I am also interested in cooperation 😉 so you can contact with me. </li>
-  <li>If I talk about my hobbies it is primarily football and driving a car. I really like it</li>
+  <li>If I talk about my hobbies it is primarily football and driving a car. I really like it.</li>
 </ul>
 
 <br />
